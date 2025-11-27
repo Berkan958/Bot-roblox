@@ -1,0 +1,23 @@
+{
+    "histories": {
+        "484692059358494731": [
+            "!help",
+            "non",
+            "!answer oui",
+            "!answer solo",
+            "!answer rpg",
+            "!answer aventures",
+            "!help",
+            "/cmds",
+            "!commands",
+            "!history",
+            "oui",
+            "!last"
+        ]
+    },
+    "conversation": {
+        "positions": {
+            "484692059358494731": "root"
+        }
+    }
+}
